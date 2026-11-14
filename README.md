@@ -2,7 +2,7 @@
 
 Object-Oriented Programming, DAUST, Fall 2026
 
-Student: YOUR NAME (YOUR STUDENT NUMBER)
+Student:Rose Kinta MENDY
 
 A small library system in TypeScript. It shows the problem that any creates, then how generics, constraints and composition solve it, and finally what generics cannot do.
 
